@@ -6,7 +6,7 @@ Data: The data used in this project was taken from UCI ML repository (https://ar
 
 I perform the tasks of Data Understanding, Data Processing, Modelling and Evaluation. This project can be technically modelled as a regression problem and Machine Learning Algorithms for regression are used in this work along with other methods like cross validation. It also includes an implementation of the linear regression algorithm.
 
-9. Citation requests / acknowledgments:
+Citation requests / acknowledgments:
   If you use this data set, please cite one or both of these refernces:
 
     -- Rafael Ballester-Ripoll, Enrique G. Paredes, Renato Pajarola.
